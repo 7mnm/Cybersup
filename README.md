@@ -6,7 +6,7 @@ Ce dépôt contient les livrables pour les **trois exercices techniques** demand
 
 ## 📁 Contenu du dépôt
 
-.
+
 ├── exercice-01-packet-tracer/
 │ ├── labo.pkt
 │ ├── README.md
